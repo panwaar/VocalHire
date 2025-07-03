@@ -37,7 +37,10 @@
 
 | Dashboard | Interview UI | Feedback |
 |----------|-------------|----------|
-| ![dashboard](https://github.com/panwaar/VocalHire/assets/ss1.png) | ![interview](https://github.com/panwaar/VocalHire/assets/ss2.png) | ![feedback](https://github.com/panwaar/VocalHire/assets/ss3.png) |
+| ![image](https://github.com/user-attachments/assets/a61dad29-e5a9-4dec-9a6d-56e7de4d9624)
+ | ![image](https://github.com/user-attachments/assets/b69e60c4-be5b-4ada-954f-fc0da28a0f3d)
+ | ![image](https://github.com/user-attachments/assets/d61136e7-d94c-415f-af82-3ef3471c2b64)
+ |
 
 ---
 
