@@ -3,7 +3,9 @@
 **VocalHire** is a full-stack AI-driven mock interview platform that schedules interviews, interacts via voice using LLMs, and delivers an engaging candidate experience — all through a beautiful dashboard.
 
 [![VocalHire Deployed](https://img.shields.io/badge/Live-VocalHire-green?style=for-the-badge&logo=vercel)](https://vocal-hire.vercel.app/)
+
 [![GitHub stars](https://img.shields.io/github/stars/panwaar/VocalHire?style=for-the-badge)](https://github.com/panwaar/VocalHire/stargazers)
+
 [![GitHub forks](https://img.shields.io/github/forks/panwaar/VocalHire?style=for-the-badge)](https://github.com/panwaar/VocalHire/network)
 
 ---
