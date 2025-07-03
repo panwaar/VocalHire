@@ -37,11 +37,14 @@
 
 | Dashboard | Interview UI | Feedback |
 |----------|-------------|----------|
-| ![image](https://github.com/user-attachments/assets/a61dad29-e5a9-4dec-9a6d-56e7de4d9624)
- | ![image](https://github.com/user-attachments/assets/b69e60c4-be5b-4ada-954f-fc0da28a0f3d)
- | ![image](https://github.com/user-attachments/assets/d61136e7-d94c-415f-af82-3ef3471c2b64)
- |
+| ![image](https://github.com/user-attachments/assets/a61dad29-e5a9-4dec-9a6d-56e7de4d9624) |
 
+
+| Interview UI |
+| ![image](https://github.com/user-attachments/assets/b69e60c4-be5b-4ada-954f-fc0da28a0f3d)
+
+| Feedback |
+| ![image](https://github.com/user-attachments/assets/d61136e7-d94c-415f-af82-3ef3471c2b64)
 ---
 
 ## 📦 Run Locally
