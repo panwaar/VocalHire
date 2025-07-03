@@ -1,36 +1,48 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🤖 VocalHire – AI-Powered Interview Scheduler
 
-## Getting Started
+**VocalHire** is a full-stack AI-driven mock interview platform that schedules interviews, interacts via voice using LLMs, and delivers an engaging candidate experience — all through a beautiful dashboard.
 
-First, run the development server:
+[![VocalHire Deployed](https://img.shields.io/badge/Live-VocalHire-green?style=for-the-badge&logo=vercel)](https://vocal-hire.vercel.app/)
+[![GitHub stars](https://img.shields.io/github/stars/panwaar/VocalHire?style=for-the-badge)](https://github.com/panwaar/VocalHire/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/panwaar/VocalHire?style=for-the-badge)](https://github.com/panwaar/VocalHire/network)
+
+---
+
+## 🚀 Tech Stack
+
+- **Frontend**: React, Next.js 14 (App Router), TailwindCSS, ShadCN/UI
+- **Backend**: Supabase (Auth + Database), Firebase (Optional fallback)
+- **AI Voice**: VAPI.ai for voice interactions
+- **LLM**: Gemini / OpenAI (GPT-4) for question generation & conversation
+- **APIs**: Google OAuth, Deepgram, Gemini API
+- **Deployment**: Vercel
+
+---
+
+## 📊 Features
+
+- 🔐 Google Authentication with Supabase
+- 📋 Create and manage multiple interviews
+- 🧠 Real-time AI voice interaction with interview questions
+- 📞 Call Start/End logic with blinking indicators
+- 📈 Track interview feedback and user history
+- 💬 Dynamic UI with animation feedback for speaking state
+- 📲 Mobile Responsive & Dark Mode Ready
+
+---
+
+## ✨ Screenshots
+
+| Dashboard | Interview UI | Feedback |
+|----------|-------------|----------|
+| ![dashboard](https://github.com/panwaar/VocalHire/assets/ss1.png) | ![interview](https://github.com/panwaar/VocalHire/assets/ss2.png) | ![feedback](https://github.com/panwaar/VocalHire/assets/ss3.png) |
+
+---
+
+## 📦 Run Locally
 
 ```bash
+git clone https://github.com/panwaar/VocalHire.git
+cd VocalHire
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
